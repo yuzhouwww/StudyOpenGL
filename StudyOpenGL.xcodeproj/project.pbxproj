@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5A76AB916F36DA1006FD88E /* item_powerup_fish.png in Resources */ = {isa = PBXBuildFile; fileRef = B5A76AB716F36DA1006FD88E /* item_powerup_fish.png */; };
+		B5A76ABA16F36DA1006FD88E /* tile_floor.png in Resources */ = {isa = PBXBuildFile; fileRef = B5A76AB816F36DA1006FD88E /* tile_floor.png */; };
+		B5A76ABC16F3832B006FD88E /* head.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5A76ABB16F3832B006FD88E /* head.jpg */; };
 		B5CA5C2A16F1FBD500645767 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5CA5C2916F1FBD500645767 /* UIKit.framework */; };
 		B5CA5C2C16F1FBD500645767 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5CA5C2B16F1FBD500645767 /* Foundation.framework */; };
 		B5CA5C2E16F1FBD500645767 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5CA5C2D16F1FBD500645767 /* CoreGraphics.framework */; };
@@ -28,6 +31,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B5A76AB716F36DA1006FD88E /* item_powerup_fish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_powerup_fish.png; sourceTree = "<group>"; };
+		B5A76AB816F36DA1006FD88E /* tile_floor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tile_floor.png; sourceTree = "<group>"; };
+		B5A76ABB16F3832B006FD88E /* head.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = head.jpg; sourceTree = "<group>"; };
 		B5CA5C2616F1FBD500645767 /* StudyOpenGL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudyOpenGL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5CA5C2916F1FBD500645767 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B5CA5C2B16F1FBD500645767 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -113,6 +119,9 @@
 				B5CA5C4B16F1FC3000645767 /* OpenGLView.m */,
 				B5CA5C4D16F20FCE00645767 /* SimpleVertex.glsl */,
 				B5CA5C4F16F210AD00645767 /* SimpleFragment.glsl */,
+				B5A76AB716F36DA1006FD88E /* item_powerup_fish.png */,
+				B5A76AB816F36DA1006FD88E /* tile_floor.png */,
+				B5A76ABB16F3832B006FD88E /* head.jpg */,
 				B5CA5C5F16F21E6800645767 /* cocos3D */,
 				B5CA5C3016F1FBD500645767 /* Supporting Files */,
 			);
@@ -207,6 +216,9 @@
 				B5CA5C4016F1FBD500645767 /* Default-568h@2x.png in Resources */,
 				B5CA5C4E16F20FCE00645767 /* SimpleVertex.glsl in Resources */,
 				B5CA5C5016F210AD00645767 /* SimpleFragment.glsl in Resources */,
+				B5A76AB916F36DA1006FD88E /* item_powerup_fish.png in Resources */,
+				B5A76ABA16F36DA1006FD88E /* tile_floor.png in Resources */,
+				B5A76ABC16F3832B006FD88E /* head.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -336,6 +348,7 @@
 				B5CA5C4516F1FBD500645767 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
