@@ -34,6 +34,7 @@
 		B5A76AB716F36DA1006FD88E /* item_powerup_fish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item_powerup_fish.png; sourceTree = "<group>"; };
 		B5A76AB816F36DA1006FD88E /* tile_floor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tile_floor.png; sourceTree = "<group>"; };
 		B5A76ABB16F3832B006FD88E /* head.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = head.jpg; sourceTree = "<group>"; };
+		B5B0894F1703E663003CFD8B /* cube.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cube.h; sourceTree = "<group>"; };
 		B5CA5C2616F1FBD500645767 /* StudyOpenGL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudyOpenGL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5CA5C2916F1FBD500645767 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B5CA5C2B16F1FBD500645767 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -122,6 +123,7 @@
 				B5A76AB716F36DA1006FD88E /* item_powerup_fish.png */,
 				B5A76AB816F36DA1006FD88E /* tile_floor.png */,
 				B5A76ABB16F3832B006FD88E /* head.jpg */,
+				B5B0894F1703E663003CFD8B /* cube.h */,
 				B5CA5C5F16F21E6800645767 /* cocos3D */,
 				B5CA5C3016F1FBD500645767 /* Supporting Files */,
 			);

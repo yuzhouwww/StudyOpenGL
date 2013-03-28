@@ -20,6 +20,7 @@
     
     GLuint _positionSlot;
     GLuint _colorSlot;
+    GLuint _normalSlot;
     
     GLuint _projectionUniform;
     GLuint _modelViewUniform;
